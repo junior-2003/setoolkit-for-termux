@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bash
 echo "          **************************"
 echo
-echo "      subscribe   Tech Z India"
+echo "      subscribe  kiddo kyle 
 echo
 echo "          **************************"
 echo
